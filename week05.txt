@@ -1,0 +1,13 @@
+리눅스 명령어
+cp 원본파일명 생성파일명
+
+Go 명령어
+go mod init 폴더명
+go run 파일명
+go build 파일명
+
+깃 명령어
+git reset
+
+기타
+.gitignore 파일 생성 (*.exe)
