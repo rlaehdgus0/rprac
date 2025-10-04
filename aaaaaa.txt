@@ -1,4 +1,8 @@
 ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhdadasdsakdkasdjka
 
 flaqjtm akfuqek
+<<<<<<< HEAD
 tlfhzhWKddms so dhkdlvm
+=======
+alspWKddms so dhkdlvmdd
+>>>>>>> be4dec1c045ec467ea5698caeb60f2ac55b1c2ae
